@@ -3,8 +3,8 @@ site_url: https://marxismdiy.github.io/marxism-self-learning
 
 site_author: Marxism-DIY
 #顶部栏显示repository信息
-# repo_name: marxism-self-learning
-# repo_url: https://github.com/MarxismDIY/marxism-DIY
+repo_name: marxism-self-learning
+repo_url: https://github.com/MarxismDIY/marxism-self-learning
 copyright: Copyright &copy; 2024-present <a href="https://github.com/MarxismDIY" target="_blank" rel="noopener noreferrer">Marxism-DIY</a>
 
 theme:
